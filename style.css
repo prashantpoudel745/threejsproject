@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  background-color: white;
+}
+
+.main {
+  background-image:
+    linear-gradient(to bottom, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 1)),
+    url("https://cdn.pixabay.com/photo/2021/03/02/01/07/cyberpunk-6061251_1280.jpg");
+  opacity: 100%;
+}
+
+.main img {
+  opacity: 80%;
+}
